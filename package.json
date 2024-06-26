@@ -14,9 +14,8 @@
   },
   "jest": {
     "testMatch": [
-        "**/__tests__/**/*.js?(x)",
-        "**/?(*.)+(spec|test).[tj]s?(x)"
+      "**/__tests__/**/*.js?(x)",
+      "**/?(*.)+(spec|test).[tj]s?(x)"
     ]
-}
-
+  }
 }
